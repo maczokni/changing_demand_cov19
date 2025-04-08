@@ -25,7 +25,6 @@ A mixed-methods approach combines time series and spatial analysis of calls for 
 - Time series forecasting to estimate counterfactual demand  
 - Gini coefficient and Location Quotient for spatial concentration  
 - Linkage with Index of Multiple Deprivation for socio-demographic context  
-- Thematic coding of semi-structured interviews with call handlers  
 
 ## Requirements
 
